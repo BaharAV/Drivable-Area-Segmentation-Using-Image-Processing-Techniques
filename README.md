@@ -3,6 +3,6 @@ This project applies image processing techniques to segment drivable areas in th
 ## Demo
 
 ![](Demo/vid1.gif)
-![](Demo/vid1.gif)
+![](Demo/vid2.gif)
 
 *Videos are sped up and cut.*
