@@ -1,3 +1,5 @@
+## Drivable Area Segmentation Using Image Processing Techniques
+
 This project applies image processing techniques to segment drivable areas in the absence of lane markings. Despite not employing machine learning methods, it demonstrates comparative performance during both daytime and nighttime, with the added advantage of remarkable speed.
 
 ## Demo
